@@ -2,6 +2,8 @@ PTPd
 ===
 
 PTP daemon (PTPd) is an implementation the Precision Time Protocol (PTP) version 2 as defined by 'IEEE Std 1588-2008'. 
+PTP 데몬 (PTPd)은 'IEEE Std 1588-2008'에서 정의한 PTP (Precision Time Protocol) 버전 2 구현입니다.
+
 PTP provides precise time coordination of Ethernet LAN connected computers. 
 It was designed primarily for instrumentation and control systems.
 
